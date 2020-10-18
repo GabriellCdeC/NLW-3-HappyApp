@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
-Desenvolvido na semana do NLW #03 ofericido pela <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>
+Desenvolvido na semana do NLW #03 ofericido pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>
 
 ## 🔖 Layout
 
